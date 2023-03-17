@@ -13,6 +13,12 @@ code .
 ````
 
 #### Challenge 1: Student Grade Generator 
-Open 
+Open index.html in the ``Student Grade Generator`` directory.
+
+Run the index.html in your prefered browser. 
+Enter the students marks in the prompt that appears. 
+
+The program will calculate the grade and give and alert containing the student grade. 
+
 
 
