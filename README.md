@@ -3,7 +3,7 @@
 ## Get Started
 Clone the repository
 ````bash
-    git clone git@github.com:GuruMulinge/Week-1-Code-Challenge.git
+git clone git@github.com:GuruMulinge/Week-1-Code-Challenge.git
 ````
 
 ### Opening the challenges in VSCode
