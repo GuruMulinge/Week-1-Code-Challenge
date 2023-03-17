@@ -13,12 +13,22 @@ code .
 ````
 
 #### Challenge 1: Student Grade Generator 
-Open index.html in the ``Student Grade Generator`` directory.
+cd into the ``Student Grade Generator`` directory.
+````bash
+cd Student\ Grade\ Generator
+````
 
 Run the index.html in your prefered browser. 
+````bash
+xdg-open index.html 
+````
+xdg-open will use your default set browser to launch index.html
+
 Enter the students marks in the prompt that appears. 
 
 The program will calculate the grade and give and alert containing the student grade. 
+
+
 
 
 
