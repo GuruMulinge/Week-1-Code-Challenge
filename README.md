@@ -1,5 +1,5 @@
 # **WEEK 1 CODE CHALLENGE**
-## **PROJECT DESCRIPTION**
+## **1. PROJECT DESCRIPTION**
 The project is comprised of three challenges.
 - Student Grade Generator
 - Speed Detector 
@@ -25,9 +25,7 @@ After the program calculates the payee Tax, NHIF and NSSF deductions one can com
 
 
 
-
-## GET STARTED
-### Project Requirements
+## 2. Project Requirements
 - Visual Studio Code
 - A modern Web Browser e.g. Brave, Mozilla Firefox, Google Chrome, Microsoft Edge, Vivaldi or Opera Mini.
 - Javascript enabled on the browser.
@@ -45,7 +43,7 @@ cd Week-1-Code-Challenge
 code .
 ````
 
-#### Challenge 1: Student Grade Generator 
+#### **Challenge 1: Student Grade Generator** 
 cd into the ``Student Grade Generator`` directory.
 ````bash
 cd Student\ Grade\ Generator
@@ -65,7 +63,7 @@ Enter the students marks in the prompt that appears.
 
 The program will calculate the grade and give and alert containing the student grade. 
 
-### Challenge 2 : Speed Detector
+### **Challenge 2 : Speed Detector**
 cd into the direcotry `` Speed Detector  ``
 ````bash
 cd Speed\ Detector
@@ -84,7 +82,7 @@ Open the Speed detector challenge directory. Double click index.html to run the 
 The program will prompt the user to key in the speed if the vehecle. If ther speed of the vehicel is below 70, it will output ``OK``, If the driver more than 12 demerit points, the program will output ``License Suspended``
 
 
-#### Challenge 3 : Net Salary Calculator
+#### **Challenge 3 : Net Salary Calculator**
 cd into the direcotry `` Net Salary Calculator  ``
 ````bash
 cd Net\ Salary\ Calculator/
