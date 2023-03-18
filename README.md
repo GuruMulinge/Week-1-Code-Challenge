@@ -230,7 +230,7 @@ The NSSF deductions are as tabled below.
 ## 3. Author
 The project is authored by <a href="https://github.com/GuruMulinge/" target="_blank">Anthony Mulinge</a>
 
-Anthony is a Software Engineering Student at <a href="https://moringaschool.com/" target="_blank">The Moringa School</a>. He is currently in studying Full Stack Engineering Course.
+Anthony is a Software Engineering Student at <a href="https://moringaschool.com/" target="_blank">The Moringa School</a>. He is currently studying Full Stack Engineering Course.
 
 ## 4. License
 The project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT license</a>.
