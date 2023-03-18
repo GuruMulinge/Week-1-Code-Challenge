@@ -1,15 +1,15 @@
-# WEEK 1 CODE CHALLENGE
-## PROJECT DESCRIPTION
+# **WEEK 1 CODE CHALLENGE**
+## **PROJECT DESCRIPTION**
 The project is comprised of three challenges.
 - Student Grade Generator
 - Speed Detector 
 - Net Salary Calculator
 
-The first challenge prompts the user to input a student's marks. 
+The first challenge prompts the user to input a student's marks.
 
 The student marks should be between 0 and 100. The program then outputs the correct grade as follows: 
 
-``A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40. ``
+`` A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40. ``
 
 The second challenge takes as input the speed of a car e.g 80. 
 
