@@ -15,10 +15,12 @@ let nssfDeduction = 0;
 
 // Calculate the Payee based on the KRA Payee rates
 if (grossPay <= 24000) {
-  payeeTax = grossPay * 0.1;
-} else if (grossPay >= 24001  && grossPay <=32333) {
+  payeeTax = grossPay * 10 /100;
+} 
+else if (grossPay >= 24001  && grossPay <=32333) {
   payeeTax = grossPay * 0.25;
-} else if (grossPay >= 32333) {
+} 
+else if (grossPay >= 32333) {
   payeeTax = grossPay * 0.3;
 }
 
