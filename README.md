@@ -53,7 +53,9 @@ xdg-open index.html
 ````
 xdg-open will use your default set browser to launch index.html
 
-For Windows and Mac, navigate  to the directory where you cloned the project. Open the challenge you want to run. Double click index.html to run the program in the browser. 
+For Windows and Mac, navigate  to the directory where you cloned the project. 
+
+Open the Student Grade Generator challenge directory. Double click index.html to run the program in the browser. 
 
 Enter the students marks in the prompt that appears. 
 
@@ -64,6 +66,18 @@ cd into the direcotry `` Speed Detector  ``
 ````bash
 cd Speed\ Detector
 ````
+
+Run the index.html in your prefered browser. 
+````bash
+xdg-open index.html 
+````
+xdg-open will use your default set browser to launch index.html
+
+For Windows and Mac, navigate  to the directory where you cloned the project. 
+
+Open the Speed detector challenge directory. Double click index.html to run the program in the browser. 
+
+The program will 
 
 
 
